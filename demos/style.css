@@ -1,0 +1,11 @@
+canvas {
+	border: 5px solid #BBB;
+}
+
+input {
+	border:  1px solid #AAA;
+}
+
+div.tools {
+	margin-bottom: 5px;
+}
